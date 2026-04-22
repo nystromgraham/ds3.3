@@ -17,6 +17,8 @@ github-repo: https://github.com/ericmkeen/bookdown_minimal
 description: "DESCRIPTION yall."
 ---
 
-# Prologue
+# Introduction {#intro}
 
-Test
+Just ten years ago UN global leaders set an agenda to transform the world through a unified commitment to sustainable development. Their agenda lists 17 wide reaching and broadly scoped goals meant to provide the framework for a future of equitable global development centered on ecological sustainability and social justice. These Sustainable Development Goals [(SDGs)](https://unric.org/en/united-nations-sustainable-development-goals/), all of which are inextricably linked, aim to tackle extremely complex issues. By design, any concerted effort towards the progress of one SDG often also promotes progress or has implications for the status of another SDG.
+
+Two SDGs are so fundamentally tied that they become interdependent on one another. SDG #5, which aims to promote gender equality across the globe, is not attainable without progress made in SDG #4, which focuses on promoting quality education for all. What follows is a short contextualization of scholarly perspectives on the progress of these two SDGs that will provide background on the difficulties, progresses, and remaining challenges left to address in the pursuit of these two SDGs. 

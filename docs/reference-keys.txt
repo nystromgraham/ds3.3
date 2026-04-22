@@ -1,4 +1,3 @@
-prologue
 intro
 sdg-4-quality-education
 sdg-5-gender-equality
