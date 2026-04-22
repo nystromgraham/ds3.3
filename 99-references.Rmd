@@ -1,0 +1,24 @@
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+Beeharry, G. ([2021]{#F}). The pathway to progress on SDG 4 requires the global education architecture to focus on foundational learning and to hold ourselves accountable for achieving it. International Journal of Educational Development, 82, 102375. https://doi.org/10.1016/j.ijedudev.2021.102375
+
+Chen, J., & Guo, J. ([2022]{#I}). The effect of female education on fertility: Evidence from China's compulsory schooling reform. Economics of Education Review, 88, 102257. https://doi.org/10.1016/j.econedurev.2022.102257
+
+Eden, L., & Wagstaff, M. F. ([2021]{#A}). Evidence-based policymaking and the wicked problem of SDG 5 Gender Equality. Journal of International Business Policy, 4(1), 28–57. https://doi.org/10.1057/s42214-020-00054-w
+
+Jain, A. K. ([1981]{#H}). The effect of female education on fertility: A simple explanation. Demography, 18(4), 577–595.
+
+Küfeoğlu, S. ([2022]{#B}). SDG-5 Gender Equality. In Emerging Technologies. Sustainable Development Goals Series. Springer, Cham. https://doi.org/10.1007/978-3-031-07127-0_7
+
+Martín, T. C. ([1995]{#J}). Women's education and fertility: Results from 26 demographic and health surveys. Studies in Family Planning, 26(4), 187–202. https://doi.org/10.2307/2137845
+
+Roser, M. ([2014]{#G}). The global decline of the fertility rate. Our World in Data. https://ourworldindata.org/fertility-rate
+
+Roy, C. K., & Xiaoling, H. ([2022]{#D}). Achieving SDG 5, gender equality and empower all women and girls, in developing countries: How aid for trade can help? International Journal of Social Economics, 49(6), 930–959. https://doi.org/10.1108/IJSE-12-2020-0813
+
+Tavernise, S., & Adelson, J. ([2026]{#K}). The birthrate is plunging. Why some say it's a good thing. The New York Times. https://www.nytimes.com/2026/02/27/us/politics/us-birthrate-decline-women.html
+
+United Nations Department of Economic and Social Affairs (UNDESA). ([2025]{#C}). The Sustainable Development Goals report 2025. United Nations. https://unstats.un.org/sdgs/report/2025/The-Sustainable-Development-Goals-Report-2025.pdf
+
+Unterhalter, E. [2019]{#E}. The many meanings of quality education: Politics of targets and indicators in SDG4. Global Policy, 10(S1), 39–51. https://doi.org/10.1111/1758-5899.12591

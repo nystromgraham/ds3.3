@@ -1,0 +1,22 @@
+--- 
+title: "Gender Equality, Quality Education,
+and the Global Decline in Fertility Rates"
+author: "Graham Nystrom"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    config:
+      sharing:
+        facebook: false
+        twitter: false
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+github-repo: https://github.com/ericmkeen/bookdown_minimal
+description: "DESCRIPTION yall."
+---
+
+# Prologue
+
+Test
